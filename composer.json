@@ -1,5 +1,5 @@
 {
-    "name": "lespoilus/spyc",
+    "name": "geekology/spyc",
     "description": "A simple YAML loader/dumper class for PHP",
     "type": "library",
     "keywords": [
@@ -8,7 +8,7 @@
         "yml",
         "zf2"
     ],
-    "homepage": "https://github.com/lespoius/spyc/",
+    "homepage": "https://github.com/Geekology/spyc/",
     "authors" : [{
         "name": "mustangostang",
         "email" : "vlad.andersen@gmail.com"
